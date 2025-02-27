@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+renders
+to_render
+visualize.py
+partial_pc.py
+gen_un_seg.py
+gen_vectors.py
+dcp/plots
+checkpoints
+Checkpoints
+data
