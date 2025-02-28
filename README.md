@@ -7,7 +7,7 @@
 <a><img src="./assets/Images/uwyo_logo.png"  height="70px" ></a>
 </div>
 
-[[arXiv]](https://arxiv.org/pdf/2304.06007v1.pdf)
+[[arXiv]](https://arxiv.org/abs/2409.06267)
 <!-- [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Anvekar_GPr-Net_Geometric_Prototypical_Network_for_Point_Cloud_Few-Shot_Learning_CVPRW_2023_paper.pdf) -->
 <br><br>
 
